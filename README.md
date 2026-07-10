@@ -5,15 +5,11 @@
 ### Aspiring Applied AI Engineer
 
 Building Machine Learning, Generative AI, RAG, and AI Automation solutions with Python.
-
 ---
-
 ## About Me
 
 I'm an aspiring Applied AI Engineer passionate about building intelligent systems that solve real-world problems. I enjoy transforming ideas into production-ready AI applications while continuously learning modern AI technologies.
-
 ---
-
 ## Currently Working On
 
 * End-to-end Machine Learning projects
@@ -29,32 +25,19 @@ I'm an aspiring Applied AI Engineer passionate about building intelligent system
 
 **Languages**
 
-* Python
-* SQL
+* Python* SQL
 
 **Machine Learning**
 
-* Scikit-learn
-* XGBoost
-* LightGBM
-* CatBoost
-* Pandas
-* NumPy
+* Scikit-learn* XGBoost* LightGBM* CatBoost* Pandas* NumPy
 
 **Generative AI**
 
-* OpenAI API
-* LangChain
-* Prompt Engineering
-* RAG
-* Vector Databases
+* OpenAI API* LangChain* Prompt Engineering* RAG* Vector Databases
 
 **Deployment & Tools**
 
-* FastAPI
-* Streamlit
-* Git
-* GitHub
+* FastAPI* Streamlit* Git* GitHub
 
 ---
 
