@@ -14,11 +14,11 @@ I'm passionate about building AI systems that solve real-world problems. My inte
 
 ## Currently Working On
 
-* Machine Learning
-* Generative AI
-* RAG Systems
-* AI Agents
-* AI Automation
+* End-to-end Machine Learning projects
+* Generative AI applications
+* Retrieval-Augmented Generation (RAG)
+* AI Agents & AI Automation
+* Production-ready AI systems
 
 ---
 
