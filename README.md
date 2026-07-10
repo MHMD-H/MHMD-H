@@ -1,48 +1,96 @@
-## Hi there 👋
-
-# Mohamed Hany
+# Hi there, I'm Mohamed Hany 👋
 
 ### Aspiring Applied AI Engineer
 
 Building Machine Learning, Generative AI, RAG, and AI Automation solutions with Python.
+
 ---
+
 ## About Me
 
-I'm an aspiring Applied AI Engineer passionate about building intelligent systems that solve real-world problems. I enjoy transforming ideas into production-ready AI applications while continuously learning modern AI technologies.
+I'm passionate about building intelligent AI systems that solve real-world problems. My interests include Machine Learning, Generative AI, RAG, AI Agents, and AI Automation, with a focus on developing production-ready applications.
+
 ---
+
 ## Currently Working On
 
-* End-to-end Machine Learning projects
-* Generative AI applications
+* Machine Learning Projects
+* Generative AI Applications
 * Retrieval-Augmented Generation (RAG)
 * AI Agents & AI Automation
-* Production-ready AI applications
-* Expanding my AI engineering portfolio
+* Production-Ready AI Applications
 
 ---
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
-* Python* SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sqlite" />
+</p>
 
-**Machine Learning**
+### Machine Learning & Data Science
 
-* Scikit-learn  * XGBoost* LightGBM* CatBoost* Pandas* NumPy
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,xgboost,lightgbm,streamlit" />
+</p>
 
-**Generative AI**
+### Generative AI
 
-* OpenAI API* LangChain* Prompt Engineering* RAG* Vector Databases
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai,langchain" />
+</p>
 
-**Deployment & Tools**
+<p>
+  <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-4B32C3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Databases-1F6FEB?style=for-the-badge" />
+</p>
 
-* FastAPI* Streamlit* Git* GitHub
+### Deployment & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode" />
+</p>
 
 ---
 
-## Reach Me
+## Featured Projects
 
-* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-* Email: YOUR_EMAIL
-* Portfolio: https://YOUR_PORTFOLIO
+* **CarbonWise AI** — End-to-end ML platform for energy forecasting, carbon footprint estimation, anomaly detection, and sustainability recommendations.
+
+* **AI Fitness Coach** — LLM-powered fitness assistant with multimodal capabilities and prompt engineering.
+
+* **Machine Learning Portfolio** — Practical ML projects covering preprocessing, feature engineering, model training, evaluation, and deployment.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## Connect
+
+<p>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;
+  <a href="https://YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
