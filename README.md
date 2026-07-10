@@ -37,19 +37,19 @@ Generative AI
 <p> <img src="https://img.shields.io/badge/Prompt_Engineering-4B32C3?style=for-the-badge" /> <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Vector_Databases-1F6FEB?style=for-the-badge" /> </p>
 
 Featured Projects
-EcoPulse AI
+* EcoPulse AI
 
 An end-to-end AI platform for energy consumption forecasting, carbon footprint estimation, anomaly detection, and sustainability recommendations using Machine Learning.
 
-AI Fitness Coach
+* AI Fitness Coach
 
 A production-ready AI fitness platform powered by LLMs, Fine-Tuning, Retrieval-Augmented Generation (RAG), multimodal AI, and intelligent coaching to deliver highly personalized fitness and nutrition guidance.
 
-Credit Bank Loan Prediction
+* Credit Bank Loan Prediction
 
 An end-to-end machine learning system for predicting loan approval risk using advanced preprocessing, feature engineering, model optimization, and explainable AI techniques.
 
-AI E-commerce Store
+* AI E-commerce Store
 
 An AI-powered e-commerce platform featuring intelligent product recommendations, AI assistants, automation workflows, and data-driven business insights
 
