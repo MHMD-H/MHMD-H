@@ -22,32 +22,36 @@ I'm passionate about building AI systems that solve real-world problems. My inte
 
 ---
 
-## Tech Stack
+Languages & Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,fastapi,vscode" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,fastapi,docker,tensorflow,vscode" /> </p>
 
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,xgboost,lightgbm,streamlit,openai,langchain" />
-</p>
+Machine Learning
 
----
+<p> <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,xgboost,lightgbm,catboost" /> </p>
 
-## Featured Projects
+Generative AI
 
-### CarbonWise AI
+<p> <img src="https://go-skill-icons.vercel.app/api/icons?i=openai,langchain,llamaindex" /> </p>
 
-End-to-end ML platform for energy forecasting, carbon footprint estimation, anomaly detection, and sustainability recommendations.
+<p> <img src="https://img.shields.io/badge/Prompt_Engineering-4B32C3?style=for-the-badge" /> <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Vector_Databases-1F6FEB?style=for-the-badge" /> </p>
 
-### AI Fitness Coach
+Featured Projects
+EcoPulse AI
 
-LLM-powered fitness assistant with prompt engineering and multimodal capabilities.
+An end-to-end AI platform for energy consumption forecasting, carbon footprint estimation, anomaly detection, and sustainability recommendations using Machine Learning.
 
-### Machine Learning Portfolio
+AI Fitness Coach
 
-A collection of practical machine learning projects covering preprocessing, feature engineering, model training, evaluation, and deployment.
+A production-ready AI fitness platform powered by LLMs, Fine-Tuning, Retrieval-Augmented Generation (RAG), multimodal AI, and intelligent coaching to deliver highly personalized fitness and nutrition guidance.
 
+Credit Bank Loan Prediction
+
+An end-to-end machine learning system for predicting loan approval risk using advanced preprocessing, feature engineering, model optimization, and explainable AI techniques.
+
+AI E-commerce Store
+
+An AI-powered e-commerce platform featuring intelligent product recommendations, AI assistants, automation workflows, and data-driven business insights
 ---
 
 ## GitHub Stats
