@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Mohamed Ahmed
+# Mohamed Hany
 
 ### Aspiring Applied AI Engineer
 
