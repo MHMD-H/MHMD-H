@@ -29,7 +29,7 @@ I'm an aspiring Applied AI Engineer passionate about building intelligent system
 
 **Machine Learning**
 
-* Scikit-learn * XGBoost* LightGBM* CatBoost* Pandas* NumPy
+* Scikit-learn  * XGBoost* LightGBM* CatBoost* Pandas* NumPy
 
 **Generative AI**
 
